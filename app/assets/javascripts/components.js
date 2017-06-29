@@ -1,0 +1,11 @@
+//= require react
+//= require react_ujs
+//= require react-redux/dist/react-redux.min
+//= require redux/dist/redux.min
+//= require normalizr/dist/normalizr.umd.min
+//= require rails-ujs
+//= require jquery/dist/jquery.min
+//= require bootstrap/dist/js/bootstrap.min
+//= require seamless-immutable/seamless-immutable.development.min.js
+//= require lodash/core
+//= require_tree ./components
